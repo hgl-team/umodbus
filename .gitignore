@@ -1,0 +1,11 @@
+.settings/
+Debug/
+Release/
+.cproject
+.project
+build/
+.vscode/
+*.gcno
+*.gcda
+*.gcov
+converage.xml
